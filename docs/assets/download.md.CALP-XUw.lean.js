@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as d,a2 as r}from"./chunks/framework.CYjxsSA2.js";const b=JSON.parse('{"title":"下载与安装","description":"","frontmatter":{},"headers":[],"relativePath":"download.md","filePath":"download.md"}'),o={name:"download.md"};function s(n,t,l,i,h,c){return e(),d("div",null,[...t[0]||(t[0]=[r("",18)])])}const m=a(o,[["render",s]]);export{b as __pageData,m as default};

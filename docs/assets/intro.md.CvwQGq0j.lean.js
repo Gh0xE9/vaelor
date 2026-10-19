@@ -1,0 +1,1 @@
+import{_ as r,o,c as a,a2 as n}from"./chunks/framework.CYjxsSA2.js";const c=JSON.parse('{"title":"关于 VAELOR","description":"","frontmatter":{},"headers":[],"relativePath":"intro.md","filePath":"intro.md"}'),e={name:"intro.md"};function l(s,t,i,d,g,h){return o(),a("div",null,[...t[0]||(t[0]=[n("",14)])])}const p=r(e,[["render",l]]);export{c as __pageData,p as default};

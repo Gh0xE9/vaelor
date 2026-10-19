@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as o,a2 as t}from"./chunks/framework.CYjxsSA2.js";const u=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"faq.md","filePath":"faq.md"}'),l={name:"faq.md"};function n(h,a,i,s,d,c){return r(),o("div",null,[...a[0]||(a[0]=[t("",33)])])}const q=e(l,[["render",n]]);export{u as __pageData,q as default};

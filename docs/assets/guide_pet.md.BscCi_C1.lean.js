@@ -1,0 +1,1 @@
+import{_ as r,o as a,c as o,a2 as d}from"./chunks/framework.CYjxsSA2.js";const u=JSON.parse('{"title":"桌宠黑泽","description":"","frontmatter":{},"headers":[],"relativePath":"guide/pet.md","filePath":"guide/pet.md"}'),e={name:"guide/pet.md"};function l(n,t,i,s,h,g){return a(),o("div",null,[...t[0]||(t[0]=[d("",24)])])}const b=r(e,[["render",l]]);export{u as __pageData,b as default};
